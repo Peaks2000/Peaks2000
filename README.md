@@ -1,10 +1,17 @@
 ## Hi I am Finn 
 
-Linux Enthusiast 🐧
+I love all things related to
+
+Linux 🐧, Docker 🐳, Opensource.
 
 I am Fluent in python, html, css, javascript and C++
- 
+
 arch btw
+
+My current obsession is 
+
+Home Asistant
+
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,arch,html,css,javascript,python,apple,vim,vscode,raspberrypi)](https://skillicons.dev)
 
