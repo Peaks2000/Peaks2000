@@ -8,4 +8,4 @@ Fluent in python, html, css, javascript,C++
 
 I use arch btw
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,html,css,python,apple,vim,vscode,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,html,css,javascript,python,apple,vim,vscode,raspberrypi)](https://skillicons.dev)
