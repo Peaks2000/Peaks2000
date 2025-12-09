@@ -2,7 +2,7 @@
 
 Linux Enthusiast 🐧
 
-I am Fluent in python, html, css, javascript and C++
+
 
 arch btw
 
