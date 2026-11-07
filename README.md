@@ -1,7 +1,8 @@
 ## Hi I am Finn 
 
 Linux Enthusiast 🐧
-
+Roman Catholic ✝️🇻🇦
+## Jesus Christ is LORD
 
 
 arch btw
