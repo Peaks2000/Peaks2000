@@ -3,8 +3,8 @@
 Linux Enthusiast 🐧
 
 
-# Roman Catholic ✝️🇻🇦
-## Jesus Christ is LORD
+## Roman Catholic ✝️🇻🇦
+# Jesus Christ is LORD
 
 
 ## I love all of these
