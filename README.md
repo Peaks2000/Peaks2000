@@ -1,11 +1,11 @@
 ## Hi I am Finn 
 
 Linux Enthusiast 🐧
-Roman Catholic ✝️🇻🇦
+
+
+# Roman Catholic ✝️🇻🇦
 ## Jesus Christ is LORD
 
-
-arch btw
 
 ## I love all of these
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,java,html,css,javascript,python,androidstudio,apple,vim,vscode,raspberrypi)](https://skillicons.dev) Wish there was a homeassistant badge!
